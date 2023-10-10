@@ -1,3 +1,3 @@
-# Hi, I'm Kamran
+# Hi, I'm Kam
 
-I'm an undergraduate Mathematics and Physics student at the University of Warwick. 
+I'm a first year PhD student in the SAMBa CDT at Bath (Statistical Applied Maths)

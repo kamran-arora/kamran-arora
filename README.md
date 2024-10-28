@@ -1,3 +1,3 @@
 # Hi, I'm Kamran
 
-I'm a first year PhD student in the SAMBa CDT at Bath (Statistical Applied Maths)
+I'm a Maths PhD student at the University of Bath.
